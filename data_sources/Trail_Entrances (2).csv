@@ -1,0 +1,46 @@
+Latitude,Longitude,PointID,LatLong,Area,Entrance Name,Description,Length,Loop?,Foot traffic,Tiring,Muddy,Road Noise,Avg Score
+38.02582,-78.53816,1,"38.02582, -78.53816",Foxhaven Fields,Foxhaven Farm Rd.,"Nice parking area, gorgeous fields with perimeter trails. Well known but still easy to navigate and explore with space.",0.75,y,2,2,2,1,1.83
+38.058336,-78.486275,2,"38.058336, -78.486275",West Meadow Creek,Brandywine near Whole Foods,"Semi-hidden entrance on side of the rd. Not many safe parking options, but nice access so great trail sections.",2,n,2,1,3,1,1.83
+38.036358,-78.534872,3,"38.036358, -78.534872",Foxhaven Fields,Canterbury Rd,"Good parking spot for trail entrance. Follow boar signs on trees, takes you eventually to Foxhaven Fields. ",2,n,1,4,3,1,1.83
+38.052949,-78.516931,4,"38.052949, -78.516931",UVA Horse Fields,Leonard Sandridge Rd,"Literally park on the side of the rd after ped crossing. Follow South trail, enjoy the beautiful fields!",0.75,n,1,3,3,2,1.83
+38.044709,-78.462867,5,"38.044709, -78.462867",Locust-Park St,Holmes Ave,"Easy remote entrance, pawpaw heaven!",1,n,2,1,3,2,2.00
+38.02459,-78.448859,6,"38.02459, -78.448859",Riverviews East,Remote Entrance,"Tricky trail entrance, follow the grass perpendicular to the road into the woods. Lots of pawpaws here, there's a trail leading down to the river trail.",2,n,1,3,4,2,2.00
+38.022913,-78.531321,7,"38.022913, -78.531321",Forestry Loop,Dept Forestry North Entrance,"Nice parking, go back into grassy area to find trail entrance. Big ups and downs but great trail signs. ",1,y,1,4,2,3,2.00
+38.056436,-78.489494,8,"38.056436, -78.489494",West Meadow Creek,Bottom of Rugby Frisbee Golf Entrance,"Tricky trail entrance, have to find semi-hidden trail path going under 250 to the better paved other side. Trail continues north into beautiful remote trail. ",2,n,1,4,3,2,2.00
+38.021224,-78.526652,9,"38.021224, -78.526652",The Meadows,Bamboo Forest Bridge,"You can enter the Forestry Loop from here, or just follow the fields over to The Creek Bridge",0.8,n,1,3,5,1,2.00
+38.039885,-78.453378,10,"38.039885, -78.453378",Darden Towe,Elk Dr,"Easy entrance, fairly busy, go either direction",2,n,3,1,2,1,2.17
+38.013312,-78.493638,11,"38.013312, -78.493638",Harris PTA Loop,Playground Entrance,"Tricky trail entrance, turn right off the path instead of towards the playground. More clear from other direction. ",1,y,2,2,3,2,2.17
+38.026244,-78.527483,12,"38.026244, -78.527483",Forestry Loop,Fontaine Parking Lot Entrance,"Good entrance to forestry loop, means you have to climb back up the hill at the end of your hike. ",1.5,y,1,3,4,3,2.17
+38.042057,-78.456273,13,"38.042057, -78.456273",Riverviews,River Rd Hidden,"Tricky entrance to muddy spot, but isolated and beautiful",5,n,1,4,5,1,2.17
+38.068534,-78.480495,14,"38.068534, -78.480495",West Meadow Creek,Awkward subdivision entrance,"Park wherever you can, follow the trail back and VERY carefully find a spot to cross the creek.",1.5,n,1,4,5,1,2.17
+38.056593,-78.497931,15,"38.056593, -78.497931",West Meadow Creek,Federal Executive Institute,"Bizarre spot, big signs about US Property and warnings about trespassers. Then another sign like have a nice hike! Gravel and clear, not very pretty.",0.25,n,3,1,1,3,2.33
+38.011581,-78.513061,16,"38.011581, -78.513061",Azalea Park,Short entrance to Azalea,"Lovely walk, nice night time access.",0.5,n,3,1,3,1,2.33
+38.01796,-78.496168,17,"38.01796, -78.496168",Harris PTA Loop,Brookwood Dr Condos,"Easy nice entry, goes past a lot of backyards",3,n,2,2,3,3,2.33
+38.016835,-78.493175,18,"38.016835, -78.493175",Harris PTA Loop,Raymond Dr Fancy Entrance,"Paved entrance, joins trail quickly. PTA loop to left on trail",2.5,y,2,3,3,2,2.33
+38.013051,-78.494804,19,"38.013051, -78.494804",Harris PTA Loop,Harris Rd yard entrance,"Kinda weird, just walk through yard, trail sign appears.",1.25,y,2,3,3,2,2.33
+38.034356,-78.459199,20,"38.034356, -78.459199",Riverviews,Pantops Bridge Body Shop,Very easy but busy entrance,3,n,4,1,1,1,2.50
+38.044072,-78.447691,21,"38.044072, -78.447691",Darden Towe,Lewis & Clark,"Beautiful area, nice but small trails",5,n,3,1,4,1,2.50
+38.0134,-78.485388,22,"38.0134, -78.485388",Moore's Creek,Self Storage,"Random entrance, but nice trail. Gets VERY steep.",1.5,n,2,5,3,1,2.50
+38.015052,-78.478344,23,"38.015052, -78.478344",Moore's Creek,Quarry Park,"Beautiful, easy parking, highly recommended. Gets steep",1.5,n,2,5,3,1,2.50
+38.01042,-78.508902,24,"38.01042, -78.508902",Soccer Field,The Soccer Field,"Sometimes soccer happens, but mostly empty. NE corner of Christian Aid Mission parking lot has entrance. Rivanna Trail passes through. ",0.6,n,2,2,4,3,2.50
+38.02171,-78.532904,25,"38.02171, -78.532904",Forestry Loop,State Police entrance,Trail entrance visible from very back of parking lot. Steep entrance but nice signs.,1,y,2,4,3,2,2.50
+38.011044,-78.50244,26,"38.011044, -78.50244",Soccer Field,Waffle House Dumpster,Entrance hidden by the dumster behind Waffle House. ¯\_(ツ)_/¯ Follow away from gas station towards new Starbucks. Follow through tunnel under road to the Soccer Field.,0.8,n,1,3,5,4,2.50
+38.037868,-78.522543,27,"38.037868, -78.522543",Lewis Mtn,Lewis Mtn Top,"Quite a drive, not a routine entrance",3,n,1,5,4,3,2.50
+38.061964,-78.473739,28,"38.061964, -78.473739",Greenbriar Park,Greenbriar Cul-de-sac,"Follow signs across bridge, head left towards Brandywine Intersection or right to see Pawpaws all the way to the train tracks. ",0.8,n,4,1,2,1,2.67
+38.045454,-78.457043,29,"38.045454, -78.457043",Locust-Park St,Locust Ave,"Great views into condo windows, otherwise nice trail",2,n,2,3,4,3,2.67
+38.011956,-78.501259,30,"38.011956, -78.501259",Harris PTA Loop,By Wegmans,"Literally park in the back of Hardee's, then walk down the hill. ",2,y,2,3,4,3,2.67
+38.029026,-78.459434,31,"38.029026, -78.459434",Riverviews East,Riverbend Community Entrance,Not really supposed to park here. Great entrance tho,3,n,3,1,5,2,2.83
+38.012333,-78.514889,32,"38.012333, -78.514889",Azalea Park,Long entrance to Azalea,"Easy entrance, optional hike through woods to make big loop around whole park and behind gardens.",0.87,y,3,3,3,2,2.83
+38.02685,-78.526684,33,"38.02685, -78.526684",Lewis Mtn,Right off Fontaine,"Awkward parking spot, steep climb, loud 29",3.25,n,1,5,4,5,2.83
+38.049193,-78.523118,34,"38.049193, -78.523118",UVA Horse Fields,Impossible Ivy Rd Crossing,"No place to park on side of rd with trail entrance. Have to cross rd, dangerous and difficult",0.75,n,1,5,4,5,2.83
+38.024024,-78.454865,35,"38.024024, -78.454865",Riverviews,Riverview Park,"Busiest trail spot in Cville, but nice",1,y,5,1,1,1,3.00
+38.018291,-78.520117,36,"38.018291, -78.520117",Moore's Creek Dam ,The Creek Bridge,Pretty spot to see the water over the bridge. Relatively popular,1,n,4,2,4,1,3.17
+38.030493,-78.455641,37,"38.030493, -78.455641",Riverviews East,Deer path behind KinderCare,"Tricky trail entrance, steep narrow deer trail leading down to the river trail.",2,n,3,5,4,1,3.17
+38.0168,-78.486828,38,"38.0168, -78.486828",Harris PTA Loop,Jordan Park,"Not a great area, enter park and go Right. Long entrance to connect with Harris PTA loop. Can end at 5th St. ",1.3,n,3,3,4,3,3.17
+38.055644,-78.502376,39,"38.055644, -78.502376",Darden Grounds,Barracks driveway entrance,"Entrance sometimes sketchy, but nice trail. ",1.5,n,3,3,4,3,3.17
+38.055272,-78.493847,40,"38.055272, -78.493847",West Meadow Creek,Disc Golf behind Bodo's,"Cool spot, relatively popular, worth visiting. In poor weather easy to walk full course.",0.75,y,3,3,4,3,3.17
+38.055172,-78.501546,41,"38.055172, -78.501546",Darden Grounds,Bus stop behind BP,"Park at BP station on Barracks, walk north to the bus stop and enter trail. Sometimes sketchy, nice hike.",2,n,3,3,4,3,3.17
+38.033955,-78.458053,42,"38.033955, -78.458053",Riverviews East,Pantops Shell,"Easy entrance, packed, not a great parking spot",2,n,4,1,3,4,3.33
+38.046472,-78.523308,43,"38.046472, -78.523308",Lewis Mtn,UVA Police entrance,Weird entrance on side of parking lot. Beautiful forest views,3.25,n,3,4,3,4,3.33
+38.06413,-78.475861,44,"38.06413, -78.475861",West Meadow Creek,Brandywine Intersection,"Clear trail entrance, but busy and muddy. Head west and cross the stream to the main trail section.",2,n,4,4,4,1,3.50
+38.010621,-78.51874,45,"38.010621, -78.51874",Moore's Creek Dam ,Gate across from Azalea,"Easy entrance, new trail up the hill for semi-isolated loop.",1,y,3,4,5,3,3.50
